@@ -8,7 +8,7 @@
 
 <p align="center" style="color:white;">
 I am passionate about <b>problem-solving</b> and <b>software development</b>.<br>
-I love building <b>projects</b>, exploring <b>new technologies</b>, and learning to create <b>efficient solutions</b>.<br>
+I love exploring <b>new technologies</b>, and learning to create <b>efficient solutions</b>.<br>
 Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, and <b>Software Engineering fundamentals</b>.
 </p>
 
