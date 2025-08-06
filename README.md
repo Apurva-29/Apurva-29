@@ -4,8 +4,6 @@
   <b>🎓 Computer Engineering Student</b> | <b>💻 Aspiring Software Engineer</b> | <b>🌱 Tech Enthusiast</b>
 </p>
 
----
-
 <h2 align="center" style="color:white;">About Me</h2>
 
 <p align="center" style="color:white;">
@@ -13,8 +11,6 @@ I am passionate about <b>problem-solving</b> and <b>software development</b>.<br
 I love building <b>projects</b>, exploring <b>new technologies</b>, and learning to create <b>efficient solutions</b>.<br>
 Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, and <b>Software Engineering fundamentals</b>.
 </p>
-
----
 
 <h2 align="center" style="color:white;">🛠 Tech Stack</h2>
 
@@ -30,19 +26,15 @@ Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </p>
 
----
-
 <h2 align="center" style="color:white;">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apurva-kotkar-14bb9432b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/apurvakotkar29?igsh=MXBpbnk3eDc3dnAxMg%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
-
----
 
 <p align="center" style="color:white;"><b>💡 Code. Learn. Grow.</b></p>
