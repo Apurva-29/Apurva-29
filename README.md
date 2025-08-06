@@ -38,6 +38,9 @@ Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, an
   <a href="https://www.linkedin.com/in/apurva-kotkar-14bb9432b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/apurvakotkar29?igsh=MXBpbnk3eDc3dnAxMg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
