@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm Apurva Kotkar</h1>
+<h1 align="center" style="color:white;">👋 Hi, I'm Apurva Kotkar</h1>
 
-<p align="center">
+<p align="center" style="color:white;">
   <b>🎓 Computer Engineering Student</b> | <b>💻 Aspiring Software Engineer</b> | <b>🌱 Tech Enthusiast</b>
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center" style="color:white;">About Me</h2>
 
-<p align="center">
+<p align="center" style="color:white;">
 I am passionate about <b>problem-solving</b> and <b>software development</b>.<br>
 I love building <b>projects</b>, exploring <b>new technologies</b>, and learning to create <b>efficient solutions</b>.<br>
 Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, and <b>Software Engineering fundamentals</b>.
@@ -16,7 +16,7 @@ Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, an
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center" style="color:white;">🛠 Tech Stack</h2>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -35,7 +35,7 @@ Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, an
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center" style="color:white;">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apurva-kotkar-14bb9432b">
@@ -45,4 +45,4 @@ Currently, I am focused on enhancing my skills in <b>Java</b>, <b>Python</b>, an
 
 ---
 
-<p align="center"><b>💡 Code. Learn. Grow.</b></p>
+<p align="center" style="color:white;"><b>💡 Code. Learn. Grow.</b></p>
